@@ -3,7 +3,7 @@
 
  Eai, eu sou o Taylor 😁
  
- ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=rewmond&show_icons=true&theme=dracula&count_private=true)
+ ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=rewmond&show_icons=true&theme=dark&count_private=true)
 
 
 <div style="display: inline_block"><br>
