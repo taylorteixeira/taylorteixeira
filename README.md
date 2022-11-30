@@ -1,7 +1,7 @@
 ## 
 📌| Bem vindo
 
- Eai, eu sou o Taylor
+ Eai, eu sou o Taylor 😁
 
 
 <div style="display: inline_block"><br>
