@@ -16,7 +16,7 @@
 
 ## 📌| Meios de comunicação
 <div>
-<a href="https://www.instagram.com/taylorvteixeira/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
- <br>                                                                       
-<a href = "taylorvargasteixeira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+<a href="https://twitter.com/rewmond_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Taylor" height="30" width="40" /></a>
+<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Taylor" height="30" width="40" /></a>
+<a href="https://www.instagram.com/taylorvteixeira/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Taylor" height="30" width="40" /></a>
 </div>
