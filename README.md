@@ -2,6 +2,9 @@
 
  <strong> Bem vindo !! 😁 </strong>
  
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
+
+ 
  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=rewmond&show_icons=true&theme=dark&count_private=true)
 
 ## 📌| Tecnologias que uso
