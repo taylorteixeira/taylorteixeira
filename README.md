@@ -11,11 +11,11 @@
 
 👔 <b> Soft skills</b>
 <br>
-✅ Work collaboratively in a team
+**Work collaboratively in a team**
 
-✅ Meet tight deadlines
+**Meet tight deadlines**
 
-✅ Good communication skills
+**Good communication skills**
 
 <br>
  
