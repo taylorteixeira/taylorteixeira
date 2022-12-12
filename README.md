@@ -9,6 +9,14 @@
 
 - **Backend:** Phyton
 
+👔 <b> Soft skills</b>
+<br>
+✅ Work collaboratively in a team
+
+✅ Meet tight deadlines
+
+✅ Good communication skills
+
 <br>
  
  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=rewmond&show_icons=true&theme=dark&count_private=true)
