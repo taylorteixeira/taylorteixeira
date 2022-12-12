@@ -1,4 +1,5 @@
 ## Eai! eu sou o Taylor 🖐️
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
  <strong> Bem vindo !! 😁 </strong>
  
@@ -7,8 +8,6 @@
 - **Frontend:** Javascript, Bootstrap, css, html
 
 - **Backend:** Phyton
- 
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
  
  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=rewmond&show_icons=true&theme=dark&count_private=true)
