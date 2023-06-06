@@ -30,6 +30,8 @@
   <img align="center" alt="Taylor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Taylor-php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
  
+ <img align="center" alt="Taylor-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+ 
 </div>
 
 ## 📌| Meios de comunicação
