@@ -7,7 +7,7 @@
 
 - **Frontend:** Javascript, Bootstrap, CSS, HTML
 
-- **Backend:** Phyton, Java
+- **Backend:** Phyton, Java, PHP
 
 👔 <b> Soft skills</b>
 <br>
