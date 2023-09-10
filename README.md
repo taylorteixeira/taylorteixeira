@@ -19,7 +19,7 @@
 
 <br>
  
- ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=rewmond&show_icons=true&theme=dark&count_private=true)
+ ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=taylorteixeira&show_icons=true&theme=dark&count_private=true)
 
 ## 📌| Tecnologias que uso
 <div style="display: inline_block"><br>
