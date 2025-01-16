@@ -1,4 +1,4 @@
-## 👋 E aí! Eu sou o Taylor
+## 👋 Hi there! I'm Taylor
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
 
