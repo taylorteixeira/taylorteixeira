@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
 
-### Bem-vindo ao meu perfil! 😁  
+### Welcome to my profile! 😁
 
-Sou um entusiasta da tecnologia apaixonado por **automação, machine learning (GenAI) e desenvolvimento de fluxos inteligentes**. Tenho experiência prática na integração de APIs, automação de processos e desenvolvimento full stack. Meu objetivo é criar soluções eficientes e inovadoras que otimizem processos e impulsionem resultados.  
+I'm a technology enthusiast passionate about **automation, machine learning (GenAI), and intelligent workflow development**. I have practical experience in API integration, process automation, and full-stack development. My goal is to create efficient and innovative solutions that optimize processes and drive results
 
 
 ### 🛠 **Skills**  
