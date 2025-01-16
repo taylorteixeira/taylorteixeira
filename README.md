@@ -13,19 +13,19 @@ I'm a technology enthusiast passionate about **automation, machine learning (Gen
 - **Frontend:** JavaScript, TypeScript, Bootstrap, CSS, HTML  
 - **Backend:** Python, Java, PHP  
 - **APIs & Integrações:** REST, Webhooks  
-- **Banco de Dados:** MySQL, MongoDB  
+- **Database:** MySQL, MongoDB  
 - **Cloud & DevOps:** Docker, Git, GitHub Actions  
 
 ### 🔹 **Automation & AI**  
-- **Plataformas:** Power Automate, Selenium  
+- **Platafoms:** Power Automate, Selenium  
 - **Machine Learning:** Scikit-learn, Pandas, NumPy  
-- **Inteligência Artificial:** GenAi APIs, LLMs 
-- **Fluxos de Trabalho:** Power Automate, Salesforce, Eloqua  
+- **Artificial Inteligence:** GenAi APIs, LLMs 
+- **Workflows:** Power Automate, Salesforce, Eloqua  
 
 ### 🔹 **Soft Skills**  
-- **Trabalho colaborativo e em equipe**  
-- **Gestão de tempo e cumprimento de prazos**  
-- **Comunicação eficaz e adaptabilidade**  
+- **Collaborative work and teamwork**  
+- **Time management and deadline completion**  
+- **Effective communication and adaptability**  
 
 
 ## 📌 **Technologies I use**  
