@@ -9,14 +9,14 @@ I'm a technology enthusiast passionate about **automation, machine learning (Gen
 
 ### 🛠 **Skills**  
 
-### 🔹 **Desenvolvimento**  
+### 🔹 **Development**  
 - **Frontend:** JavaScript, TypeScript, Bootstrap, CSS, HTML  
 - **Backend:** Python, Java, PHP  
 - **APIs & Integrações:** REST, Webhooks  
 - **Banco de Dados:** MySQL, MongoDB  
 - **Cloud & DevOps:** Docker, Git, GitHub Actions  
 
-### 🔹 **Automação & IA**  
+### 🔹 **Automation & AI**  
 - **Plataformas:** Power Automate, Selenium  
 - **Machine Learning:** Scikit-learn, Pandas, NumPy  
 - **Inteligência Artificial:** GenAi APIs, LLMs 
@@ -28,7 +28,7 @@ I'm a technology enthusiast passionate about **automation, machine learning (Gen
 - **Comunicação eficaz e adaptabilidade**  
 
 
-## 📌 **Tecnologias que uso**  
+## 📌 **Technologies I use**  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Taylor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -57,7 +57,7 @@ I'm a technology enthusiast passionate about **automation, machine learning (Gen
 ![Taylor GitHub stats](https://github-readme-stats.vercel.app/api?username=taylorteixeira&show_icons=true&theme=dark&count_private=true)  
 
 
-##  **Meios de Contato**  
+##  **Contact**  
 
 <div>
 <a href="https://twitter.com/rewmond_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
