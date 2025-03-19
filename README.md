@@ -51,12 +51,6 @@ I'm a technology enthusiast passionate about **automation, machine learning (Gen
   <img align="center" alt="Taylor-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 </div>  
 
-
-###  **GitHub Stats**  
-
-![Taylor GitHub stats](https://github-readme-stats.vercel.app/api?username=taylorteixeira&show_icons=true&theme=dark&count_private=true)  
-
-
 ##  **Contact**  
 
 <div>
