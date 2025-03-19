@@ -28,7 +28,7 @@ I'm a technology enthusiast passionate about **automation, machine learning (Gen
 - **Effective communication and adaptability**  
 
 
-## 📌 **Technologies I use**  
+##  **Technologies I use**  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Taylor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
