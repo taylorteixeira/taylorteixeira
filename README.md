@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taylorteixeira&color=blue" alt="Profile views" /> </p>
+
 ### Welcome to my profile! 😁
 
 I'm a technology enthusiast passionate about **automation, machine learning (GenAI), and intelligent workflow development**. I have practical experience in API integration, process automation, and full-stack development. My goal is to create efficient and innovative solutions that optimize processes and drive results
