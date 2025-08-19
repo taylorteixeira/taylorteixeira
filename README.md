@@ -1,7 +1,5 @@
 ## 👋 Hi there! I'm Taylor
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="360px" max-width="360px" width="360px" align="right">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taylorteixeira&color=blue" alt="Profile views" /> </p>
 
 ### Welcome to my profile! 😁
@@ -9,28 +7,7 @@
 I'm a technology enthusiast passionate about **automation, machine learning (GenAI), and intelligent workflow development**. I have practical experience in API integration, process automation, and full-stack development. My goal is to create efficient and innovative solutions that optimize processes and drive results
 
 
-### 🛠 **Skills**  
-
-### 🔹 **Development**  
-- **Frontend:** JavaScript, TypeScript, Bootstrap, CSS, HTML  
-- **Backend:** Python, Java, PHP  
-- **APIs & Integrações:** REST, Webhooks  
-- **Database:** MySQL, MongoDB  
-- **Cloud & DevOps:** Docker, Git, GitHub Actions  
-
-### 🔹 **Automation & AI**  
-- **Platafoms:** Power Automate, Selenium  
-- **Machine Learning:** Scikit-learn, Pandas, NumPy  
-- **Artificial Inteligence:** GenAi APIs, LLMs 
-- **Workflows:** Power Automate, Salesforce, Eloqua  
-
-### 🔹 **Soft Skills**  
-- **Collaborative work and teamwork**  
-- **Time management and deadline completion**  
-- **Effective communication and adaptability**  
-
-
-##  **Technologies I use**  
+###  **Technologies I use**  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Taylor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -53,7 +30,7 @@ I'm a technology enthusiast passionate about **automation, machine learning (Gen
   <img align="center" alt="Taylor-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 </div>  
 
-##  **Contact**  
+###  **Contact**  
 
 <div>
 <a href="https://www.linkedin.com/in/taylor-teixeira/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
