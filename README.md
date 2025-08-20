@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Taylor
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taylorteixeira&color=blue" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taylorteixeira&color=blue&base=1200" alt="Profile views" /> </p>
 
 ### Welcome to my profile! 😁
 
