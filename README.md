@@ -38,5 +38,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-0c1b2e?style=flat-square&logo=Instagram&logoColor=2c569c&link=https://www.instagram.com/taylorvteixeira/)](https://www.instagram.com/taylorvteixeira/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-0c1b2e?style=flat-square&logo=Gmail&logoColor=2c569c&link=mailto:taylorvargasteixeira.com)](mailto:taylorvargasteixeira.com) 
 [![GitHub Gists Badge](https://img.shields.io/badge/-Github%20Gists-0c1b2e?style=flat-square&logo=Github&logoColor=2c569c&link=https://gist.github.com/taylorteixeira)](https://gist.github.com/taylorteixeira) 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-0c1b2e?style=flat-square&logo=vercel&logoColor=white&link=https://taylor-teixeira.vercel.app/portfolio)](https://taylor-teixeira.vercel.app/portfolio)
+
 
 </div>
