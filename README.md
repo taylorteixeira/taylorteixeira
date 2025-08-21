@@ -17,20 +17,20 @@
 
 <div>
 
-```text
-Languages : JavaScript • TypeScript • Python • Java • PHP • SQL
-Frontend : React • Next.js • HTML5 • CSS3 • Tailwind
-Backend : Node.js • Express • REST APIs • Automation
-Databases : MySQL • MongoDB 
-Cloud/DevOps: Docker • Git • GitHub • CI/CD
-Platforms : Azure 
-Tools/IDEs : VSCode • Insominia • Figma
+```bash
+> Languages : JavaScript • TypeScript • Python • Java • PHP • SQL
+> Frontend : React • Next.js • HTML5 • CSS3 • Tailwind
+> Backend : Node.js • Express • REST APIs • Automation
+> Databases : MySQL • MongoDB 
+> Cloud/DevOps: Docker • Git • GitHub • CI/CD
+> Platforms : Azure 
+> Tools/IDEs : VSCode • Insominia • Figma
 ```
 </div>
 
-###  - **Contact**  
-
-<div>
+<div align="center">
+  
+###  Reach 
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0c1b2e?style=flat-square&logo=Linkedin&logoColor=2c569c&link=https://www.linkedin.com/in/taylor-teixeira/)](https://www.linkedin.com/in/taylor-teixeira/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-0c1b2e?style=flat-square&logo=Instagram&logoColor=2c569c&link=https://www.instagram.com/taylorvteixeira/)](https://www.instagram.com/taylorvteixeira/) 
