@@ -33,6 +33,10 @@ I'm a technology enthusiast passionate about **automation, machine learning (Gen
 ###  **Contact**  
 
 <div>
-<a href="https://www.linkedin.com/in/taylor-teixeira/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/taylorvteixeira/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0c1b2e?style=flat-square&logo=Linkedin&logoColor=2c569c&link=https://www.linkedin.com/in/taylor-teixeira/)](https://www.linkedin.com/in/taylor-teixeira/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-0c1b2e?style=flat-square&logo=Instagram&logoColor=2c569c&link=https://www.instagram.com/taylorvteixeira/)](https://www.instagram.com/taylorvteixeira/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-0c1b2e?style=flat-square&logo=Gmail&logoColor=2c569c&link=mailto:taylorvargasteixeira.com)](mailto:taylorvargasteixeira.com) 
+[![GitHub Gists Badge](https://img.shields.io/badge/-Github%20Gists-0c1b2e?style=flat-square&logo=Github&logoColor=2c569c&link=https://gist.github.com/taylorteixeira)](https://gist.github.com/taylorteixeira) 
+
 </div>
