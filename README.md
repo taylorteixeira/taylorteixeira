@@ -8,9 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=taylorteixeira&color=2c569c&base=1200" alt="Profile views" />
 </p>
 
-### - Welcome to my profile! 😁
+### - Welcome to my profile!
 
-> I'm a technology enthusiast passionate about **automation, machine learning (GenAI), and intelligent workflow development**. I have practical experience in API integration, process automation, and full-stack development. My goal is to create efficient and innovative solutions that optimize processes and drive results
+ㅤ I'm a technology enthusiast passionate about **automation, machine learning (GenAI), and intelligent workflow development**. I have practical experience in API integration, process automation, and full-stack development. My goal is to create efficient and innovative solutions that optimize processes and drive results
 
  
 ### - **Technologies I use** 
@@ -27,6 +27,8 @@
 > Tools/IDEs : VSCode • Insominia • Figma
 ```
 </div>
+
+> "You can make anything by writing." ~ C. S. Lewis
 
 <div align="center">
   
