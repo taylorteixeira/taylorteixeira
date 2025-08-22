@@ -11,9 +11,9 @@
 ㅤ I'm a technology enthusiast passionate about **automation, machine learning (GenAI), and intelligent workflow development**. I have practical experience in API integration, process automation, and full-stack development. My goal is to create efficient and innovative solutions that optimize processes and drive results
 
  
-### - **Technologies I use** 
+### 🎯 **Technologies I use** 
 
-<div>
+<div align="center">
 
 ```bash
 > Languages : JavaScript • TypeScript • Python • Java • PHP • SQL
