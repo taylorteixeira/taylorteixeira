@@ -16,12 +16,16 @@
         <img width="100" height="100" alt="a2fc4975-4d23-4a8c-9be3-dcc41214b07d" src="https://github.com/user-attachments/assets/3d9a2a9e-49a4-4a91-b897-d0ed0fbe1d08" />
       </td>
        <td align="center" valign="middle">
+        <img width="85" height="85" alt="ae629bc2-0ea7-4311-8409-c8f288479174" src="https://github.com/user-attachments/assets/aadf28f3-80fc-4c82-80a1-3951c6c88512" />
+      </td>
+       <td align="center" valign="middle">
         <img width="150" height="150" alt="oracle badge overwiew" src="https://github.com/user-attachments/assets/b0e3cf6a-aa2b-4a9c-98b0-5cfba26b17c5" />
       </td>
       <td align="center" valign="middle">
         <img width="90" height="90" alt="Nivelamento" src="https://github.com/user-attachments/assets/ddbb8e13-e94a-4a3a-b99a-e6e3e79364b0" />
       </td>
     </tr>
+
   </table>
 
 
