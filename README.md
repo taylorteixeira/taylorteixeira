@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there! I'm Taylor Teixeira</h1>
 
 <p align="center">
-  <em>Software Engineer • Automation & AI Enthusiast •  Developer</em>
+  <em>Software Engineer • Automation & AI Enthusiast • Developer • Marketing Ops</em>
 </p>
 
 <p align="center">
