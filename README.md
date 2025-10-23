@@ -19,7 +19,7 @@
         <img width="140" height="140" alt="oracle badge overwiew" src="https://github.com/user-attachments/assets/b0e3cf6a-aa2b-4a9c-98b0-5cfba26b17c5" />
       </td>
       <td align="center" valign="middle">
-        <img width="90" height="80" alt="a2fc4975-4d23-4a8c-9be3-dcc41214b07d" src="https://github.com/user-attachments/assets/3d9a2a9e-49a4-4a91-b897-d0ed0fbe1d08" />
+        <img width="80" height="80" alt="a2fc4975-4d23-4a8c-9be3-dcc41214b07d" src="https://github.com/user-attachments/assets/3d9a2a9e-49a4-4a91-b897-d0ed0fbe1d08" />
       </td>
     </tr>
   </p>
