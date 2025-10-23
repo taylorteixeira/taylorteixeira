@@ -38,7 +38,7 @@
 > Backend : Node.js • Express • REST APIs 
 > Databases : MySQL • MongoDB 
 > Cloud/DevOps: Docker • Git • GitHub • CI/CD
-> Platforms : Azure • Oracle • Power Automate • Eloqua
+> Platforms : Databricks • Azure • Oracle • Power Automate • Eloqua
 > Tools/IDEs : VSCode • Insominia • Figma
 ```
 </div>
