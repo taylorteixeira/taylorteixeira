@@ -35,10 +35,10 @@
 ```bash
 > Languages : JavaScript • TypeScript • Python • Java • PHP • SQL
 > Frontend : React • Next.js • HTML5 • CSS3 • Tailwind
-> Backend : Node.js • Express • REST APIs • Automation
+> Backend : Node.js • Express • REST APIs 
 > Databases : MySQL • MongoDB 
 > Cloud/DevOps: Docker • Git • GitHub • CI/CD
-> Platforms : Azure 
+> Platforms : Azure • Oracle • Power Automate • Eloqua
 > Tools/IDEs : VSCode • Insominia • Figma
 ```
 </div>
